@@ -608,7 +608,7 @@ header div ul li {
 }
 
 .header2 {
-    border: solid black;
+    /* border: solid black; */
     display: flex;
     background-color: #F26B3A;
 }
