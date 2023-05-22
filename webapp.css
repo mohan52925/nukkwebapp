@@ -608,7 +608,6 @@ header div ul li {
 }
 
 .header2 {
-    /* border: solid black; */
     display: flex;
     background-color: #F26B3A;
 }
@@ -699,8 +698,11 @@ header div ul li {
     right: 35px;
     bottom: 25px;
 }
+<<<<<<< HEAD
 @media only screen and (max-width: 600px) {
     body {
       background-color: rgb(246, 246, 249);
     }
   }
+=======
+>>>>>>> f2de3a2bfa4497ba6eb6019f13331d00b1bd2711
