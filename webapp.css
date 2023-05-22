@@ -670,7 +670,6 @@ header div ul li {
     text-transform: uppercase;
 }
 
-.services {}
 
 .services a {
     display: flex;
@@ -700,3 +699,8 @@ header div ul li {
     right: 35px;
     bottom: 25px;
 }
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(246, 246, 249);
+    }
+  }
