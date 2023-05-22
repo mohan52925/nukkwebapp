@@ -698,7 +698,7 @@ header div ul li {
     right: 35px;
     bottom: 25px;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1500px) {
     body {
       background-color: rgb(246, 246, 249);
     }
