@@ -14,7 +14,7 @@ body {
 .main {
     display: inline-block;
     margin-top: 2px;
-    background-image: url(https://nuuk-e3eaa.firebaseapp.com/assets/img/slide-2.jpg);
+    background-image: linear-gradient(72deg, #C5C9DB,rgb(178,186,219,0.5)), url(https://nuuk-e3eaa.firebaseapp.com/assets/img/slide-2.jpg);
     background-size: 1500px 1250px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -698,11 +698,8 @@ header div ul li {
     right: 35px;
     bottom: 25px;
 }
-<<<<<<< HEAD
 @media only screen and (max-width: 600px) {
     body {
       background-color: rgb(246, 246, 249);
     }
   }
-=======
->>>>>>> f2de3a2bfa4497ba6eb6019f13331d00b1bd2711
